@@ -18,7 +18,7 @@ EchoCTF : https://echoctf.red/
 
 VulnHub : https://www.vulnhub.com/
 
-OverTheWire (Learn security concepts through challenges): https://overthewire.org/wargames/
+OverTheWire (Learn security concepts through challenges) : https://overthewire.org/wargames/
 
 Pentester Lab : https://pentesterlab.com/exercises
 
